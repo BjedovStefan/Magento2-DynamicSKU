@@ -1,0 +1,23 @@
+{
+    "name": "MagentoTools/DynamicSKU",
+    "description": "",
+    "require": {
+		
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MagentoTools\\DynamicSKU\\": ""
+        }
+    },	
+    "authors": [
+        {
+            "name": "Stefan Bjedov",
+            "role": "Developer"
+        }
+    ]
+}
